@@ -1,0 +1,12 @@
+Drivers first name: Liz
+Drivers last name: Brian
+Driver ID: 35
+Truck ID: 178534
+Truck location (x, y): (2, 3)
+
+Drivers first name: Mike
+Drivers last name: Smith
+Driver ID: 69
+Truck ID: 245817
+Truck location (x, y): (5, 2)
+
